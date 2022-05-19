@@ -1,3 +1,7 @@
+
+# All png files should be ignored
+*.png
+
 # Compiled class file
 *.class
 
